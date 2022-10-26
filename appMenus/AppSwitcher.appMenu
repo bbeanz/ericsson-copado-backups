@@ -140,4 +140,8 @@
         <name>CopadoTrial</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>copado__Copado_Lightning</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
