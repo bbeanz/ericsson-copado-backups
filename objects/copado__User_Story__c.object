@@ -7858,6 +7858,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <columns>copado__Environment__c</columns>
         <columns>copado__Status__c</columns>
         <columns>OWNER.ALIAS</columns>
+        <columns>CREATED_DATE</columns>
         <filterScope>Everything</filterScope>
         <filters>
             <field>copado__Priority__c</field>
