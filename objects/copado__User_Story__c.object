@@ -7851,6 +7851,17 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
     </fields>
     <label>User Story</label>
     <listViews>
+        <fullName>Ericsson_Dev_A</fullName>
+        <columns>NAME</columns>
+        <columns>copado__User_Story_Title__c</columns>
+        <columns>copado__Status__c</columns>
+        <columns>copado__Project__c</columns>
+        <columns>copado__Org_Credential__c</columns>
+        <columns>LAST_UPDATE</columns>
+        <filterScope>Everything</filterScope>
+        <label>Ericsson Dev A</label>
+    </listViews>
+    <listViews>
         <fullName>copado__All</fullName>
         <columns>NAME</columns>
         <columns>RECORDTYPE</columns>
@@ -7876,11 +7887,6 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <columns>copado__Org_Credential__c</columns>
         <columns>CREATED_DATE</columns>
         <filterScope>Everything</filterScope>
-        <filters>
-            <field>copado__Status__c</field>
-            <operation>equals</operation>
-            <value>In Progress</value>
-        </filters>
         <label>Cli Listview</label>
     </listViews>
     <nameField>
