@@ -407,9 +407,9 @@
         <columns>copado__Destination_Git_Commit__c</columns>
         <columns>copado__Destination_Org_Credential__c</columns>
         <columns>copado__Last_Run__c</columns>
+        <columns>CREATED_DATE</columns>
         <filterScope>Everything</filterScope>
         <label>All</label>
-        <language>en_US</language>
     </listViews>
     <nameField>
         <label>Snapshot Difference Name</label>

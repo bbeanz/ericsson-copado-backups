@@ -7858,7 +7858,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <columns>copado__Project__c</columns>
         <columns>copado__Org_Credential__c</columns>
         <columns>LAST_UPDATE</columns>
-        <filterScope>Everything</filterScope>
+        <filterScope>Mine</filterScope>
         <label>Ericsson Dev A</label>
     </listViews>
     <listViews>
